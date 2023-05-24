@@ -1,4 +1,5 @@
 # Wordle Game
+![Wordle working animation](https://github.com/LuizCarlosBergamini/Wordle-CS50/assets/109323370/d72cab6b-3976-41cf-813e-6a6fc9d33e07)
 
 This is a simple command-line word-guessing game called Wordle50. The game challenges you to guess a word within a limited number of tries. You will receive feedback on each guess to help you narrow down the correct word.
 
