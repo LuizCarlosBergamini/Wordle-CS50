@@ -13,13 +13,13 @@ To play Wordle50, you need to have the following installed:
 
 1. Clone the repository or download the source code files.
 2. Compile the code using the `gcc` compiler with the following command:
-´´´
+```bash
 gcc -o wordle wordle.c -lcs50
-´´´
+```
 3. Run the game by executing the compiled binary:
-´´´
+```bash
 ./wordle <wordsize>
-´´´
+```
 Replace `<wordsize>` with the desired size of the word to be guessed (5, 6, 7, or 8).
 
 ## How to Play
